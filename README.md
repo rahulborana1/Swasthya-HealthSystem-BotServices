@@ -1,7 +1,11 @@
 # Swasthya-HealthSystem-BotServices
 
+
+Website link : https://swasthya-healthsystem.azurewebsites.net/index.html
+
 Industry*:
 Health
+
 
 Project Title*:
 Swasthya-Healthsystem (Hospital Management and Monkeypox QnA Bot)
@@ -130,6 +134,8 @@ Screenshots:
 Admin Login Id: admin 
 password: Test@12345
 
+
+Website link : https://swasthya-healthsystem.azurewebsites.net/index.html
 
 
 
