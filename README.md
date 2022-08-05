@@ -127,6 +127,9 @@ Screenshots:
 ![image](https://user-images.githubusercontent.com/100230988/183057225-9da93056-1b66-471c-a984-fab8e1c91e23.png)
 
 
+Admin Login Id: admin 
+password: Test@12345
+
 
 
 
