@@ -64,15 +64,27 @@ Primary Azure Technology*:
 Azure Bot Service, QnA Maker, App Service,
 
 
-Azure App Service
+1. Azure App Service
 Azure App Service is an HTTP-based service for hosting web applications, REST APIs, and mobile back ends. You can develop in your favorite language, be it .NET,.NET Core, Java, Ruby, Node.js, PHP, or Python. Applications run and scale with ease on both Windows and Linux-based environments.
 
 App Service not only adds the power of Microsoft Azure to your application, such as security, load balancing, autoscaling, and automated management. You can also take advantage of its DevOps capabilities, such as continuous deployment from Azure DevOps, GitHub, Docker Hub, and other sources, package management, staging environments, custom domain, and TLS/SSL certificates.
 
 With App Service, you pay for the Azure compute resources you use. The compute resources you use are determined by the App Service plan that you run your apps on.
 
-Web App
+2. Web App
 Azure Web App service lets us quickly build, deploy, and scale enterprise-grade web, mobile, and API apps running on any platform. It helps us to meet rigorous performance, scalability, security, and compliance requirements while using a fully managed platform to perform infrastructure maintenance.
+
+
+3. Azure Bot service 
+Azure Bot Service provides an integrated development environment for bot building. Its integration with Power Virtual Agents, a fully hosted low-code platform, enables developers of all technical abilities build conversational AI bots—no code needed.
+
+4. Azure QnA maker
+QnA Maker is a cloud-based Natural Language Processing (NLP) service that allows you to create a natural conversational layer over your data. It is used to find the most appropriate answer for any input from your custom knowledge base (KB) of information.
+
+QnA Maker is commonly used to build conversational client applications, which include social media applications, chat bots, and speech-enabled desktop applications.
+
+QnA Maker doesn't store customer data. All customer data (question answers and chat logs) is stored in the region the customer deploys the dependent service instances in.
+
 
 
 Screenshots:
